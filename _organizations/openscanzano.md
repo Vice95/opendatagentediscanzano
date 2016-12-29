@@ -1,6 +1,6 @@
 ---
 schema: opendataschema
 title: Openscanzano
-description: ''
+description: Movimento cittadino raccolta opendata avviato da Vincenzo Cerbino
 logo: ''
 ---
