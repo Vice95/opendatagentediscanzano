@@ -2,17 +2,17 @@
 schema: opendataschema
 title: Benzinai
 organization: Openstreetmap
-notes: 'Tutti i benzinai di Prato referenziati tramite il tag "amenity=fuel" su Openstreetmap. Puoi contribuire ad aggiornare questo dataset usando Openstreetmap ed il tag amenity=fuel. Aggiornati mensilmente.'
+notes: 'Tutti i benzinai di Scanzano Jonico referenziati tramite il tag "amenity=fuel" su Openstreetmap. Puoi contribuire ad aggiornare questo dataset usando Openstreetmap ed il tag amenity=fuel. Aggiornati mensilmente.'
 resources:
   - name: Benzinai
-    url: 'https://github.com/iltempe/opendataprato/blob/master/benzinai.geojson'
+    url: 'https://raw.githubusercontent.com/Vice95/opendatagentediscanzano/gh-pages/contents/benzinai.geojson'
     format: geojson
 category:
   - Economia
   - Trasporti
   - Automobili
-maintainer: Matteo Tempestini
-maintainer_email: mtempestini@gmail.com
+maintainer: 'Vincenzo Cerbino <ViCe95>'
+maintainer_email: vicemail95@gmail.com
 license: Open Data Commons Open Database License (ODbL)
-pubdate: 17/04/2016
+pubdate: 29/12/2016
 ---
