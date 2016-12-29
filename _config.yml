@@ -5,7 +5,7 @@ baseurl: /opendatagentediscanzano
 logo: /img/jkan.png
 
 # Site theme
-theme: Cyborg
+theme: Cosmo
 
 # Authentication
 github_client_id: ab94febec90ebdb53fcf
