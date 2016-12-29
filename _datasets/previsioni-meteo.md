@@ -1,8 +1,8 @@
 ---
 schema: opendataschema
 title: Previsioni Meteo
-organization: OpenToscana
-notes: Previsioni metereologiche di Prato rilasciate da OpenToscana, fonte Lamma. Aggiornati quotidianamente.
+organization: Openscanzano
+notes: 'Previsioni metereologiche di Prato rilasciate da OpenToscana, fonte Lamma. Aggiornati quotidianamente.'
 resources:
   - name: Previsioni Meteo
     url: 'https://raw.githubusercontent.com/iltempe/opendataprato/master/previsioni-meteo.xml'
@@ -10,8 +10,8 @@ resources:
 category:
   - Ambiente
   - Meteo
-maintainer: iltempe
-maintainer_email: mtempestini@gmail.com
-license: CC BY 4.0
+maintainer: 'Vincenzo Cerbino <ViCe95>'
+maintainer_email: vicemail95@gmail.com
+license: CC-by-SA
 pubdate: 09/04/2016
 ---
