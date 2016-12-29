@@ -1,7 +1,7 @@
 ---
 schema: opendataschema
 title: Eventi Scanzano Jonico
-organization: Opendatanetwork
+organization: Openscanzano
 notes: ''
 resources:
   - name: Eventi Scanzano Jonico
