@@ -9,6 +9,7 @@ resources:
     format: csv
 category:
   - Inclusione
+  - Svago
 maintainer: Vincenzo Cerbino ViCe95
 maintainer_email: vicemail95@gmail.com
 license: CC-by-SA
